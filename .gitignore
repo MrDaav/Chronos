@@ -5,3 +5,7 @@ chronos
 # Debugging files
 core
 core.*
+
+# Personal time tracking data
+tasks.csv
+records.csv
