@@ -1,0 +1,7 @@
+# Compiled binaries
+chronos
+*.o
+
+# Debugging files
+core
+core.*
